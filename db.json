@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "photo": "https://picsum.photos/200",
+      "name": "wedvewvew",
+      "age": "123",
+      "country": "fd dfbd",
+      "hobby": "evervedfvedfv",
+      "id": 1
+    },
+    {
+      "photo": "https://picsum.photos/200",
+      "name": "ewef",
+      "age": "123",
+      "country": "edberbf",
+      "hobby": "everv",
+      "id": 2
+    },
+    {
+      "photo": "https://picsum.photos/200",
+      "name": "ewfe",
+      "age": "1243",
+      "country": "wef",
+      "hobby": "weff",
+      "id": 3
+    },
+    {
+      "photo": "https://picsum.photos/200",
+      "name": "ewfwef",
+      "age": "24123",
+      "country": "wewef",
+      "hobby": "wefewf",
+      "id": 4
+    }
+  ]
+}
